@@ -6,4 +6,10 @@ ___
 
 <br>
 
-### <a href="https://github.com/YuLim2/NLP_study/blob/master/study/01.preparation.md">01. Preparation for NLP(framework, lib, workflow)</a>
+### 01. Preparation for NLP
+
+- <a href="https://github.com/YuLim2/NLP_study/blob/master/study/01.preparation.md">Framework, lib, Workflow</a>
+
+### 02. Text preprocessing
+
+- <a href="https://github.com/YuLim2/NLP_study/blob/master/study/text_preprocessing/Tokenization.ipynb">Tokenization</a>
