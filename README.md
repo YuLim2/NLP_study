@@ -1,5 +1,5 @@
-This repositoties is based on "딥러닝을 이용한 자연어 처리 입문"
-
+This repositoties is based on "딥러닝을 이용한 자연어 처리 입문" 🏄‍♂️
+ 
 <br>
 
 ___
@@ -15,3 +15,5 @@ ___
 - <a href="https://github.com/YuLim2/NLP_study/blob/master/study/text_preprocessing/Tokenization.ipynb">Tokenization</a>
 
 - <a href="https://github.com/YuLim2/NLP_study/blob/master/study/text_preprocessing/Clean_and_Normalization.ipynb">Cleaning and Nomalization</a>
+
+- <a href="https://github.com/YuLim2/NLP_study/blob/master/study/text_preprocessing/Stopword.ipynb">Stopword</a>
