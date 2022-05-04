@@ -14,6 +14,8 @@ ___
 
 - <a href="https://github.com/YuLim2/NLP_study/blob/master/study/text_preprocessing/Tokenization.ipynb">Tokenization</a>
 
+- <a href="https://github.com/YuLim2/NLP_study/blob/master/study/text_preprocessing/Korean_Tokenization.ipynb">Korean Tokenization</a>
+
 - <a href="https://github.com/YuLim2/NLP_study/blob/master/study/text_preprocessing/Clean_and_Normalization.ipynb">Cleaning and Nomalization</a>
 
 - <a href="https://github.com/YuLim2/NLP_study/blob/master/study/text_preprocessing/Stopword.ipynb">Stopword</a>
