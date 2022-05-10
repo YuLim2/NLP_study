@@ -29,3 +29,5 @@ ___
 - <a href="https://github.com/YuLim2/NLP_study/blob/master/study/text_preprocessing/Text_Preprocessing_Tools_for_Korean_Text.ipynb">Text Preprocessing Tools for Korean</a>
 
 - <a href="http://localhost:8953/notebooks/study/text_preprocessing/Text_Similarity.ipynb">Text Similarity</a>
+
+- <a href="https://github.com/YuLim2/NLP_study/blob/master/study/text_preprocessing/Text_Similarity.ipynb">Text Similarity</a>
