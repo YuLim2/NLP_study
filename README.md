@@ -37,3 +37,12 @@ ___
 ### 03. DeepLearning Model for ChatBot Engine
 
 - <a href="https://velog.io/@yulim2/NLP-%EC%9D%B8%EA%B3%B5-%EC%8B%A0%EA%B2%BD%EB%A7%9D-Artificial-Neural-Network">Artificial Neural Network</a>
+
+<br>
+
+### 04. Models
+
+- <a href="https://github.com/YuLim2/NLP_study/blob/master/models/MNIST_Ex.ipynb">Deep Learning Classification Model by MNIST</a>
+
+
+- <a href="https://github.com/YuLim2/NLP_study/blob/master/models/CNN_Ex.ipynb">Emotional Classification Model by CNN</a>
