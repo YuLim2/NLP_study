@@ -38,6 +38,10 @@ ___
 
 - <a href="https://velog.io/@yulim2/NLP-%EC%9D%B8%EA%B3%B5-%EC%8B%A0%EA%B2%BD%EB%A7%9D-Artificial-Neural-Network">Artificial Neural Network</a>
 
+- <a href="https://velog.io/@yulim2/NLP-CNN-%EB%AA%A8%EB%8D%B8">CNN Explanation</a>
+- 
+- <a href="https://velog.io/@yulim2/NPL-RNN-%EB%AA%A8%EB%8D%B8-RNN-Model">RNN Explanation</a>
+
 <br>
 
 ### 04. Models
@@ -46,3 +50,5 @@ ___
 
 
 - <a href="https://github.com/YuLim2/NLP_study/blob/master/models/CNN_Ex.ipynb">Emotional Classification Model by CNN</a>
+
+- <a href="https://github.com/YuLim2/NLP_study/blob/master/models/RNN_Ex.ipynb">Sin Curve Prediction Model by RNN
