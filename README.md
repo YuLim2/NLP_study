@@ -55,3 +55,13 @@ ___
 - <a href="https://github.com/YuLim2/NLP_study/blob/master/models/CNN_Ex.ipynb">Emotional Classification Model by CNN</a>
 
 - <a href="https://github.com/YuLim2/NLP_study/blob/master/models/RNN_Ex.ipynb">Sin Curve Prediction Model by RNN
+
+- <a href="https://github.com/YuLim2/NLP_study/blob/master/models/LSTM_Ex.ipynb">Cos Curve Prediction Model by LSRM</a>
+ 
+- <a href="https://github.com/YuLim2/NLP_study/blob/master/models/NER_Ex.ipynb">Prediction NER Model by LSTM<a>
+ 
+<br>
+ 
+### 05. chatbot
+ 
+- <a href="https://velog.io/@yulim2/NLP-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0-Project-Structure">Project Structure<a>
